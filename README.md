@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi there! I'm Kushal T H , a passionate and driven software developer with a love for Data Analytics ,web development. <br>I'm constantly expanding my knowledge and currently diving into new technologies.<br><br>💬 Let's Connect Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about technology and innovation.<br><br>🛠️ Skills and Tools <br><br>Languages: Python, MySQL<br>Tools: Git, PowerBI,Qliksense,Tableau <br>Databases: MySQL<br><br>
+👋 Hi there! I'm Kushal T H , a passionate and driven software developer with a love for Data Analytics ,web development. <br>I'm constantly expanding my knowledge and currently diving into new technologies.<br><br>💬 Let's Connect Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about technology and innovation.<br><br>
+
+# 💻 Tech Stack:
+🛠️ Skills and Tools <br><br>Languages: Python, MySQL<br>Tools: Git, PowerBI,Qliksense,Tableau <br>Databases: MySQL<br><br>
 
 
 ## 🌐 Socials:
